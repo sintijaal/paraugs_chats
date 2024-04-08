@@ -1,3 +1,18 @@
 body{
-    background-color: aquamarine;
+    background-image: url(https://res.cloudinary.com/sanibel-captiva-conservation-foundation-recon/image/upload/v1478029195/jvifofb7jqjd92bnajsk.jpg);
+}
+.pamatlaukums{
+    background-color: rgb(92, 166, 200);
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(104, 60, 169);
+    padding: 10px;
+    margin: auto;
+}
+.cataZina{
+    background-color: rgb(164, 78, 211);
+    height: 100px;
+    padding: 10px;
+    overflow: scroll;
+    color: rgb(24, 9, 24);
 }
