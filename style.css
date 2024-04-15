@@ -5,12 +5,12 @@ body{
     background-color: rgb(92, 166, 200);
     width: 500px;
     height: 500px;
-    border: 2px solid rgb(104, 60, 169);
+    border: 2px solid rgb(118, 66, 197);
     padding: 10px;
     margin: auto;
 }
 .cataZina{
-    background-color: rgb(164, 78, 211);
+    background-color: rgb(97, 73, 202);
     height: 100px;
     padding: 10px;
     overflow: scroll;
